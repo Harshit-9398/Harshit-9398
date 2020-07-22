@@ -1,4 +1,4 @@
-![alt text](images/Banner.png "Harshit Maharshi")
+![alt text](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.png "Harshit Maharshi")
 ### Hi there 👋
 
 🔭 **I'm currently working as a Software Engineer at Sopra Steria India**
