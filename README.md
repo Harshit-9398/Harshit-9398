@@ -5,6 +5,8 @@
 
 💬 **Ask me about OpenShift Container Platform, Microsoft Azure, Linux and Gaming😅.**
 
+🔭 **I’m currently working on Kubernetes, OpenDataHub, OpenShift Container Platform and Linux.**
+
 📫 **Reach me at:** harshitmhrsi.98@gmail.com
 <!--
 **Harshit-9398/Harshit-9398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
