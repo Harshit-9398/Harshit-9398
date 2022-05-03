@@ -1,4 +1,4 @@
-![](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.mp4)
+![](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.gif)
 ### Hi there 👋
 
 🔭 **Currently working as a Senior Software Engineer at Sopra Steria India**
