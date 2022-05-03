@@ -1,4 +1,8 @@
-![](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.gif)
+<p align="center">
+<img src="https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.gif">
+</p>
+
+
 ### Hi there 👋
 
 🔭 **Currently working as a Senior Software Engineer at Sopra Steria India**
