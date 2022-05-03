@@ -1,7 +1,7 @@
-![alt text](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.png "Harshit Maharshi")
+![alt text](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.mp4 "Harshit Maharshi")
 ### Hi there 👋
 
-🔭 **Currently working as a Software Engineer at Sopra Steria India**
+🔭 **Currently working as a Senior Software Engineer at Sopra Steria India**
 
 💬 **Know about OpenShift Container Platform, Microsoft Azure, Linux and PC Gaming😅.**
 
