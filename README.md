@@ -1,5 +1,5 @@
 ![Banner-dark](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Dark-Mode.gif#gh-dark-mode-only)
-![Banner-light](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Light-Mode.gif#gh-dark-mode-only)
+![Banner-light](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Light-Mode.gif#gh-light-mode-only)
 
 ### Hi there 👋
 
