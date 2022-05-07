@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner.gif">
-</p>
-
+![Banner-dark](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Dark-Mode.gif#gh-dark-mode-only)
+![Banner-light](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Light-Mode.gif#gh-dark-mode-only)
 
 ### Hi there 👋
 
