@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 **Currently working as a Senior Software Engineer at Sopra Steria India**
+🔭 **Currently working as a Senior Software Engineer at SSG India**
 
 💬 **Know about OpenShift Container Platform, Microsoft Azure, Linux and PC Gaming😅.**
 
