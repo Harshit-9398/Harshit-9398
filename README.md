@@ -1,7 +1,3 @@
-<!-- ![Banner-dark](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Dark-Mode.gif#gh-dark-mode-only)
-![Banner-light](https://github.com/Harshit-9398/Harshit-9398/blob/master/images/Banner-Light-Mode.gif#gh-light-mode-only)
-
- -->
 ![Banner-Dark-Mode](https://github.com/Harshit-9398/Harshit-9398/assets/36565937/4dada7a1-0150-4b7d-b674-920f0e99c313)
 
 ### Hi there 👋
