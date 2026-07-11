@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 **Currently working as a Module Lead at SSG India**
+🔭 **Currently working as a Module Lead at Sopra Steria India**
 
 💬 **Work with Microsoft Azure, Terraform, Linux and PC Gaming😅.**
 
