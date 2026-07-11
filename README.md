@@ -4,7 +4,7 @@
 
 🔭 **Currently working as a Module Lead at Sopra Steria India**
 
-💬 **Work with Microsoft Azure, Terraform, Linux and PC Gaming😅.**
+💬 **Work with Microsoft Azure, Terraform and Linux.**
 
 📫 **Reach me at:** harshitmhrsi.98@gmail.com
 <!--
