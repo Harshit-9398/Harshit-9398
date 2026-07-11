@@ -2,11 +2,9 @@
 
 ### Hi there 👋
 
-🔭 **Currently working as a Senior Software Engineer at SSG India**
+🔭 **Currently working as a Module Lead at SSG India**
 
-💬 **Know about OpenShift Container Platform, Microsoft Azure, Linux and PC Gaming😅.**
-
-🔭 **I’m currently working on Kubernetes, OpenDataHub, OpenShift Container Platform and Linux.**
+💬 **Work with Microsoft Azure, Terraform, Linux and PC Gaming😅.**
 
 📫 **Reach me at:** harshitmhrsi.98@gmail.com
 <!--
